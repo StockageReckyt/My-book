@@ -6,8 +6,11 @@
 	</head>
 
 	<body>
-		<section id="Menu">
+		<header>
 			<h1>FindThePrecious.com</h1>
+		</header>
+		
+		<section id="Menu">
 			<a href=#Fellows>Fellows</a>
 			<a href=#Contact>Contact</a>
 		</section>
